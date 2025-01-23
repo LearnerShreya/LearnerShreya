@@ -1,62 +1,49 @@
-# Hi 👋, I'm Shreya Singh
-
-![Welcome to My Profile](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4ADE80&center=true&width=450&lines=Hi+👋,+I'm+Shreya+Singh!;Aspiring+Data+Scientist+%26+Developer;Passionate+about+Technology+%26+Innovation)
-
----
-
-## 📚 About Me
-- 🌱 I’m currently learning **Data Science, Web Development, and DSA**
-- 🎯 My goal is to achieve a **10+ LPA package**
-- 💬 Ask me about **Python, C++, Web Development, and Data Analysis**
-
----
-
-## 💻 Tech Stack
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+%F0%9F%98%80;+Welcome+to+My+Profile!;&center=true&size=30&color=f70089&vCenter=true&width=600&height=100">
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  </a>
+</h1>
+<p align="center">
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Tech+Enthusiast+%F0%9F%8E%93;%F0%9F%8C%9F+Passionate+about+AI+and+ML+%F0%9F%A4%96;Frontend+Web+Developer+%F0%9F%92%BB;DSA+%7C%20AI+Explorer+%F0%9F%A4%93;%F0%9F%92%BB+Love+Coding+%F0%9F%92%A5;&center=true&width=500&height=50&color=f70089&vCenter=true&width=600&height=100"></a>
 </p>
 
----
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+ <p align="top">
+   <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" style="width: 180px; height: 180px; border-radius: 20px; object-fit: cover;"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" style="width: 180px; height: 180px; border-radius: 20px; object-fit: cover;"/>
+  <img src="#" style="width: 180px; height: 180px; border-radius: 20px; object-fit: cover;"/>
+  <img src="#" style="width: 180px; height: 180px; border-radius: 20px; object-fit: cover;"/>
+ </p>
+</div>
+
+<h3 align="center">〖 A Passionate Developer who believes in community collaboration. 〗</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 ## 🏆 Achievements
-- 🥈 **2nd Position:** National Science Day 2024
-- 🏅 **Top 30 Finalist:** Smart India Hackathon 2023
-- 📝 **Writing Event Winner:** Teacher's Day
+![](https://github-profile-trophy.vercel.app/?username=username&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-## 📈 GitHub Stats (All-time)
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=learnershreya&theme=radical&border_radius=10" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=learnershreya&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnershreya&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">&nbsp;About me ....</h3>
 
----
+<ul>
+<li> 🌱 <b>Currently Learning</b>: <code>Data Structures</code>, <code>AI/ML</code></li>
+<li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Python/C++</code>, <code>SQL</code></li>
+<li> 📫 <b>Reach me at</b>: <code><a href="#">LinkedIn</a></code>, <code><a href="#">Twitter</a></code>, <code><a href="#">Email</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b>: <code><a href="#">Portfolio Link</a></code></li>
+<li> 😄 <b>Pronouns</b>: <code>Tech Enthusiast</code></li>
+</ul>
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+## 🙌🏻 Badges
 
----
+[![@username's Holopin board](https://holopin.me/username)](https://holopin.io/@username)
 
-> "Data is the new oil, but refining it requires skill!"
+<h3 align="center">Show some ❤ by ⭐ some repositories.</h3>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#)
+
+<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
