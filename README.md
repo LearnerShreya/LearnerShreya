@@ -49,12 +49,14 @@
 
 ---
 
-<div align = 'center'>
+
 ## 📊 GitHub Stats  
-![Shreya Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=learnershreya&show_icons=true&theme=radical)
-![Shreya Singh's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=learnershreya&theme=radical)
-![Shreya Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=learnershreya&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=learnershreya&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnershreya&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnershreya&theme=synthwave&show_icons=true&hide_border=false&layout=compact" width="49%"/>
 </div>
+
 
 ---
 
