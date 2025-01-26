@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me  
 - 🚀 Passionate about **Data Science, Web Development & Problem Solving**  
-- 🌱 Currently learning **Python, C++, and Full-Stack Development**  
+- 🌱 Currently learning **Python, Data Science, and DSA**  
 - 💡 Always open to exploring new opportunities and learning new technologies  
 - 💬 Ask me about **Python, Data Science, and DSA**  
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/shreya-singh-561a591a5/)**  
