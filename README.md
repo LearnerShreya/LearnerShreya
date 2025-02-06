@@ -67,7 +67,7 @@ A classic mathematical strategy game built using **HTML, CSS, and JavaScript**, 
 ### [Personal Portfolio](https://learnershreya.github.io/)  
 A fully responsive portfolio website built with **Next.js**, demonstrating UI/UX and development skills.  
 
-*More projects coming soon...*  
+*More projects coming soon....*  
 
 ---
 
