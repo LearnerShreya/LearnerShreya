@@ -20,8 +20,9 @@
 
 ---
 
+<div align="center">
+  
 ## 🌐 Connect with Me  
-<p align="center">
   <a href="https://linkedin.com/in/shreya-singh-561a591a5/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
@@ -35,45 +36,92 @@
 
 ---
 
-## 🛠 Skills & Technologies  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino IDE" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
-</p>
+# 🛠 Skills & Technologies
 
-### 👨‍💻 Operating System  
-- Windows  
+## 💻 Operating System  
 
-### 🧑‍💻 Languages  
-- Python | R | JavaScript | C++ | SQL | HTML | CSS  
+<table>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/windows-10.png" width="50"/><br>Windows</td>
+  </tr>
+</table>
 
-### 🗃️ Databases  
-- MySQL | Excel | MongoDB | SQLite  
+## 🧑‍💻 Languages  
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50"/><br>R</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/><br>C++</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="50"/><br>SQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/><br>HTML</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/><br>CSS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50"/><br>LaTeX</td>
+  </tr>
+</table>
 
-### ⚙️ Tools & Platforms  
-- Git, GitHub, Visual Studio Code, Jupyter Notebook, PyCharm, Arduino IDE, Postman  
-- Notion, Canva  
+## 🗃️ Databases  
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/><br>MySQL</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50"/><br>Excel</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/><br>SQLite</td>
+  </tr>
+</table>
 
-### 🧰 Frameworks & Libraries  
-- NumPy | Pandas | Matplotlib | Seaborn | Plotly | Bokeh  
-- Scikit-learn | Flask | LangChain | Streamlit  
+## ⚙️ Tools & Platforms  
 
-### 🎯 Areas of Interest  
-- Data Science | Machine Learning | Software Development Engineer  
+<table>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/><br>Git</td>
+    <td align="center"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50"/><br>GitHub</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/><br>VS Code</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50"/><br>Jupyter</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="50"/><br>PyCharm</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/><br>Arduino IDE</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/><br>Postman</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="50"/><br>Canva</td>
+  </tr>
+</table>
+
+## 📦 Frameworks & Libraries  
+<table>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50"/><br>NumPy</td>
+    <td align="center"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="50"/><br>Pandas</td>
+    <td align="center"><img src="https://matplotlib.org/_static/images/logo2.svg" width="50"/><br>Matplotlib</td>
+    <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70"/><br>Seaborn</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/plotly/plotly.js/master/.github/logo/plotly-logo.png" width="50"/><br>Plotly</td>
+    <td align="center"><img src="https://static.bokeh.org/logos/logotype.svg" width="80"/><br>Bokeh</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/><br>Scikit-learn</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50"/><br>Flask</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/110250084?s=280&v=4" width="50"/><br>LangChain</td>
+    <td align="center"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="80"/><br>Streamlit</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Beautiful_Soup_Logo.png" width="50"/><br>BeautifulSoup</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/132724701?s=200&v=4" width="50"/><br>LLM</td>
+  </tr>
+</table>
+
+## 🎯 Areas of Interest  
+<table>
+  <tr>
+    <td align="center">Data Science</td>
+    <td align="center">Machine Learning</td>
+    <td align="center">Software Development Engineer</td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
