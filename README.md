@@ -44,8 +44,36 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino IDE" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="50"/>
 </p>
+
+### 👨‍💻 Operating System  
+- Windows  
+
+### 🧑‍💻 Languages  
+- Python | R | JavaScript | C++ | SQL | HTML | CSS  
+
+### 🗃️ Databases  
+- MySQL | Excel | MongoDB | SQLite  
+
+### ⚙️ Tools & Platforms  
+- Git, GitHub, Visual Studio Code, Jupyter Notebook, PyCharm, Arduino IDE, Postman  
+- Notion, Canva  
+
+### 🧰 Frameworks & Libraries  
+- NumPy | Pandas | Matplotlib | Seaborn | Plotly | Bokeh  
+- Scikit-learn | Flask | LangChain | Streamlit  
+
+### 🎯 Areas of Interest  
+- Data Science | Machine Learning | Software Development Engineer  
 
 ---
 
