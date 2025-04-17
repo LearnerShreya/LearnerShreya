@@ -40,7 +40,7 @@
 ## 💻 Operating System  
 <table>
   <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/windows-10.png" width="50"/><br>Windows</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/windows-10.png" width="40"/><br>Windows</td>
   </tr>
 </table>
 
