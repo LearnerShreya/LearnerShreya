@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-  
+
 ## 🌐 Connect with Me  
   <a href="https://linkedin.com/in/shreya-singh-561a591a5/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
@@ -32,14 +32,12 @@
   <a href="mailto:shreya.official.2.25@gmail.com">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
   </a>
-</p>
 
 ---
 
 # 🛠 Skills & Technologies
 
 ## 💻 Operating System  
-
 <table>
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/windows-10.png" width="50"/><br>Windows</td>
@@ -73,7 +71,6 @@
 </table>
 
 ## ⚙️ Tools & Platforms  
-
 <table>
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/><br>Git</td>
@@ -121,6 +118,7 @@
 </table>
 
 </div>
+
 
 
 ---
