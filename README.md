@@ -1,9 +1,8 @@
-<h1 align="center" style="font-size: 50px; font-weight: bold; color: #00b0ff;">
-  <span role="img" aria-label="wave">👋</span> Hey there, I'm <span style="color: #ff6347;">Shreya Singh</span>
-</h1>
-<h3 align="center" style="font-size: 30px; color: #32cd32;">
-  Aspiring <span style="font-style: italic;">Data Scientist</span> & <span style="font-weight: bold;">Developer</span> | <span style="color: #ff6347;">Blending Code</span> with Curiosity and <span style="color: #ff6347;">Innovation!</span>
-</h3>
+<img src="https://github.com/user-attachments/assets/01ceaef0-d4af-485e-886c-2b16266128c2" alt="github-header-image" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%26+Developer" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
