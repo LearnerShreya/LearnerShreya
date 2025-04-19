@@ -15,7 +15,7 @@
 ---
 
 ## 👩‍💻 About Me  
-- 🚀 Passionate about **Data Science, Web Development & Problem Solving**  
+- 🚀 Passionate about **Data Science, Software Development & Problem Solving**
 - 🌱 Currently learning **Python, Data Science, and DSA**  
 - 💡 Always open to exploring new opportunities and learning new technologies  
 - 💬 Ask me about **Python, Data Science, and DSA**  
