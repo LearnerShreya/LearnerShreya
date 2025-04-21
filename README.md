@@ -36,79 +36,80 @@
   <a href="mailto:shreya.official.2.25@gmail.com">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
   </a>
+</div>
 
 ---
 
-# 🛠 Skills & Technologies
+<div align="center">
 
-## 💻 Operating System  
+<h2>🛠 Skills & Technologies</h2>
+
+<h2>💻 Operating System</h2>
+<table>
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/windows-10.png" width="30" /><br>Windows</td>
+</table>
+
+<h2>🧑‍💻 Languages</h2>
 <table>
   <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/windows-10.png" width="40"/><br>Windows</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/><br>Python</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="30"/><br>R</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4vXnzPBWb7w2Er_fBHlueUhI3PJVpOLLr_g_YfSahz6jmW_G1AplcQRzbGiCsbM6eKo&usqp=CAU" width="25"/><br>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/><br>C++</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://brandlogos.net/wp-content/uploads/2025/03/microsoft_sql_server-logo_brandlogos.net_wykhq.png" width="30"/><br>SQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/><br>HTML</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/><br>CSS</td>
+    <td align="center"><img src="https://static-00.iconduck.com/assets.00/latex-icon-504x512-uljs0dpq.png" width="25"/><br>LaTeX</td>
   </tr>
 </table>
 
-## 🧑‍💻 Languages  
+<h2>🗃️ Databases</h2>
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40"/><br>R</td>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4vXnzPBWb7w2Er_fBHlueUhI3PJVpOLLr_g_YfSahz6jmW_G1AplcQRzbGiCsbM6eKo&usqp=CAU" width="30"/><br>JavaScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://brandlogos.net/wp-content/uploads/2025/03/microsoft_sql_server-logo_brandlogos.net_wykhq.png" width="40"/><br>SQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/><br>HTML</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/><br>CSS</td>
-    <td align="center"><img src="https://static-00.iconduck.com/assets.00/latex-icon-504x512-uljs0dpq.png" width="30"/><br>LaTeX</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/><br>MySQL</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="30"/><br>Excel</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/><br>MongoDB</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="30"/><br>SQLite</td>
   </tr>
 </table>
 
-## 🗃️ Databases  
+<h2>⚙️ Tools & Platforms</h2>
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40"/><br>Excel</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/><br>SQLite</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/><br>Git</td>
+    <td align="center"><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="30"/><br>GitHub</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/><br>VS Code</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30"/><br>Jupyter</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="30"/><br>PyCharm</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30"/><br>Arduino IDE</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/><br>Postman</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="30"/><br>Canva</td>
   </tr>
 </table>
 
-## ⚙️ Tools & Platforms  
+<h2>📦 Frameworks & Libraries</h2>
 <table>
   <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git</td>
-    <td align="center"><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40"/><br>GitHub</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/><br>VS Code</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/><br>Jupyter</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="30"/><br>NumPy</td>
+    <td align="center"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="25"/><br>Pandas</td>
+    <td align="center"><img src="https://matplotlib.org/_static/images/logo2.svg" width="30"/><br>Matplotlib</td>
+    <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="30"/><br>Seaborn</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40"/><br>PyCharm</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/><br>Arduino IDE</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br>Postman</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/><br>Canva</td>
-  </tr>
-</table>
-
-## 📦 Frameworks & Libraries  
-<table>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40"/><br>NumPy</td>
-    <td align="center"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="30"/><br>Pandas</td>
-    <td align="center"><img src="https://matplotlib.org/_static/images/logo2.svg" width="40"/><br>Matplotlib</td>
-    <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/><br>Seaborn</td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-1KKksc8e8Vwux2hWAFxgtAIm5eeBelbfg&s" width="30"/><br>Plotly</td>
+    <td align="center"><img src="https://static.bokeh.org/logos/logotype.svg" width="30"/><br>Bokeh</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/><br>Scikit-learn</td>
+    <td align="center"><img src="https://img.icons8.com/nolan/200/flask.png" width="30"/><br>Flask</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-1KKksc8e8Vwux2hWAFxgtAIm5eeBelbfg&s" width="40"/><br>Plotly</td>
-    <td align="center"><img src="https://static.bokeh.org/logos/logotype.svg" width="40"/><br>Bokeh</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>Scikit-learn</td>
-    <td align="center"><img src="https://img.icons8.com/nolan/200/flask.png" width="40"/><br>Flask</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://blog.langchain.dev/content/images/2023/09/LangChain_Logo-1.png" width="40"/><br>LangChain</td>
-    <td align="center"><img src="https://streamlit.io/images/brand/streamlit-mark-dark.png" width="40"/><br>Streamlit</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Requests-logo.png" width="40"/><br>Requests</td>
-    <td align="center"><img src="https://img.freepik.com/premium-vector/llm-logo-llm-letter-llm-letter-logo-design-initials-llm-logo-linked-with-circle-uppercase-monogram-logo-llm-typography-technology-business-real-estate-brand_229120-65361.jpg" width="40"/><br>LLM</td>
+    <td align="center"><img src="https://blog.langchain.dev/content/images/2023/09/LangChain_Logo-1.png" width="30"/><br>LangChain</td>
+    <td align="center"><img src="https://streamlit.io/images/brand/streamlit-mark-dark.png" width="30"/><br>Streamlit</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Requests-logo.png" width="30"/><br>Requests</td>
+    <td align="center"><img src="https://img.freepik.com/premium-vector/llm-logo-llm-letter-llm-letter-logo-design-initials-llm-logo-linked-with-circle-uppercase-monogram-logo-llm-typography-technology-business-real-estate-brand_229120-65361.jpg" width="30"/><br>LLM</td>
   </tr>
 </table>
 
@@ -122,8 +123,6 @@
 </table>
 
 </div>
-
-
 
 ---
 
