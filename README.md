@@ -44,10 +44,12 @@
 
 <h2>🛠 Skills & Technologies</h2>
 
-<!-- <h2>💻 Operating System</h2> -->
-<!-- <table> -->
-<!--   <td align="center"><img src="https://img.icons8.com/color/48/000000/windows-10.png" width="30" /><br>Windows</td> -->
-<!-- </table> -->
+<!-- 
+<h2>💻 Operating System</h2>
+<table>
+   <td align="center"><img src="https://img.icons8.com/color/48/000000/windows-10.png" width="30" /><br>Windows</td>
+</table> 
+-->
 
 <h2>🧑‍💻 Languages</h2>
 <table>
@@ -91,6 +93,7 @@
   </tr>
 </table>
 
+<!--
 <h2>📦 Frameworks & Libraries</h2>
 <table>
   <tr>
@@ -112,6 +115,8 @@
     <td align="center"><img src="https://img.freepik.com/premium-vector/llm-logo-llm-letter-llm-letter-logo-design-initials-llm-logo-linked-with-circle-uppercase-monogram-logo-llm-typography-technology-business-real-estate-brand_229120-65361.jpg" width="30"/><br>LLM</td>
   </tr>
 </table>
+-->
+
 
 ## 🎯 Areas of Interest  
 <table>
