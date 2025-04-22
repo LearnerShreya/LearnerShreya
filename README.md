@@ -44,10 +44,10 @@
 
 <h2>🛠 Skills & Technologies</h2>
 
-<h2>💻 Operating System</h2>
-<table>
-  <td align="center"><img src="https://img.icons8.com/color/48/000000/windows-10.png" width="30" /><br>Windows</td>
-</table>
+<!-- <h2>💻 Operating System</h2> -->
+<!-- <table> -->
+<!--   <td align="center"><img src="https://img.icons8.com/color/48/000000/windows-10.png" width="30" /><br>Windows</td> -->
+<!-- </table> -->
 
 <h2>🧑‍💻 Languages</h2>
 <table>
