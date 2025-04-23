@@ -141,7 +141,7 @@
 
 
 ---
-
+<!--
 ## 🚀 Projects  
 ### [NIM Game](https://github.com/learnershreya/nimgam)  
 A classic mathematical strategy game built using **HTML, CSS, and JavaScript**, showcasing logic and UI design skills.  
@@ -152,6 +152,8 @@ A fully responsive portfolio website built with **Next.js**, demonstrating UI/UX
 *More projects coming soon....*  
 
 ---
+
+-->
 
 ## 🎯 Quote of the Day  
 > "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill  
