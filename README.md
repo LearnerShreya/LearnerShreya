@@ -30,11 +30,11 @@
   <a href="https://linkedin.com/in/shreya-singh-561a591a5/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/shreya2singh25" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
-  </a>
   <a href="mailto:shreya.official.2.25@gmail.com">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://x.com/shreya2singh25" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
   </a>
 </div>
 
