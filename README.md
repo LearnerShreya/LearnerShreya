@@ -89,7 +89,9 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="30"/><br>PyCharm</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30"/><br>Arduino IDE</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/><br>Postman</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="30"/><br>Canva</td>
+<!--     <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="30"/><br>Canva</td> -->
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"/><br>AWS</td>
+
   </tr>
 </table>
 
