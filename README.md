@@ -13,30 +13,48 @@
 </p>
 
 ---
+<table>
+  <tr>
+    <td style="width: 70%; vertical-align: top;">
+      <h2 style="text-align: center;">👩‍💻 About Me</h2>
+      <p> 🚀 Passionate about <strong>Data Science | Software Development | Problem Solving</strong></p>
+      <p> 🌱 Currently learning <strong>Python | Data Science | Data Structure and Algorithm</strong></p>
+      <p> 💡 Eager to explore new opportunities and learn new technologies</p>
+      <p> 💬 Ask me about <strong>Python, Data Science, and DSA</strong></p>
+      <p> 📫 Reach me at: <strong><a href="https://www.linkedin.com/in/shreya-singh-561a591a5/">LinkedIn</a></strong></p>
+      <p> ⚡ I enjoy <strong>yoga, meditation, and exploring tech trends</strong></p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
-## 👩‍💻 About Me  
-- 🚀 Passionate about **Data Science, Software Development & Problem Solving**
-- 🌱 Currently learning **Python, Data Science, and DSA**  
-- 💡 Always open to exploring new opportunities and learning new technologies  
-- 💬 Ask me about **Python, Data Science, and DSA**  
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/shreya-singh-561a591a5/)**  
-- ⚡ I enjoy **yoga, meditation, and exploring tech trends**  
+
+  
+
 
 ---
 
 <div align="center">
 
-## 🌐 Connect with Me  
-  <a href="https://linkedin.com/in/shreya-singh-561a591a5/" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shreya.official.2.25@gmail.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
-  </a>
-  <a href="https://x.com/shreya2singh25" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
-  </a>
+### 🌐 Connect with Me  
+
+<a href="https://linkedin.com/in/shreya-singh-561a591a5/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" alt="LinkedIn" style="border-radius: 8px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:shreya.official.2.25@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" alt="Gmail" style="border-radius: 8px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/shreya2singh25" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/twitter.png" width="30" alt="Twitter" style="border-radius: 8px;"/>
+</a>
+
 </div>
+
+
 
 ---
 
@@ -51,7 +69,7 @@
 </table> 
 -->
 
-<h2>🗃️ Databases</h2>
+<h3>🗃️ Databases</h3>
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/><br>MySQL</td>
@@ -61,7 +79,7 @@
   </tr>
 </table>
 
-<h2>🧑‍💻 Languages</h2>
+<h3>🧑‍💻 Languages</h3>
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/><br>Python</td>
@@ -76,7 +94,7 @@
 </table>
 
 
-<h2>⚙️ Tools & Platforms</h2>
+<h3>⚙️ Tools & Platforms</h3>
 <table>
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/><br>Git</td>
@@ -134,11 +152,11 @@
 ---
 
 
-## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=learnershreya&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnershreya&theme=radical" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnershreya&theme=synthwave&show_icons=true&hide_border=false&layout=compact" width="49%"/>
+<h3>📊 GitHub Stats </h3> 
+  <img src="https://github-readme-stats.vercel.app/api?username=learnershreya&show_icons=true&theme=radical" width="44.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnershreya&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnershreya&theme=synthwave&show_icons=true&hide_border=false&layout=compact" width="37%"/>
 </div>
 
 
@@ -166,9 +184,5 @@ A fully responsive portfolio website built with **Next.js**, demonstrating UI/UX
 > "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill  
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
-</p>
 
 
