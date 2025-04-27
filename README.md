@@ -51,6 +51,16 @@
 </table> 
 -->
 
+<h2>🗃️ Databases</h2>
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/><br>MySQL</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="30"/><br>Excel</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/><br>MongoDB</td>
+    <td align="center"><img src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/667f2d98856e323d92d5c7cb_667f2b52e7524d84e7615bd9_1200px-Sqlite-square-icon.svg.png" width="30"/><br>SQLite</td>
+  </tr>
+</table>
+
 <h2>🧑‍💻 Languages</h2>
 <table>
   <tr>
@@ -58,8 +68,6 @@
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="30"/><br>R</td>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4vXnzPBWb7w2Er_fBHlueUhI3PJVpOLLr_g_YfSahz6jmW_G1AplcQRzbGiCsbM6eKo&usqp=CAU" width="25"/><br>JavaScript</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/><br>C++</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://brandlogos.net/wp-content/uploads/2025/03/microsoft_sql_server-logo_brandlogos.net_wykhq.png" width="30"/><br>SQL</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/><br>HTML</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/><br>CSS</td>
@@ -67,15 +75,6 @@
   </tr>
 </table>
 
-<h2>🗃️ Databases</h2>
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/><br>MySQL</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="30"/><br>Excel</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/><br>MongoDB</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="30"/><br>SQLite</td>
-  </tr>
-</table>
 
 <h2>⚙️ Tools & Platforms</h2>
 <table>
@@ -84,16 +83,17 @@
     <td align="center"><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="30"/><br>GitHub</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/><br>VS Code</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30"/><br>Jupyter</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="30"/><br>PyCharm</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30"/><br>Arduino IDE</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/><br>Postman</td>
-<!--     <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="30"/><br>Canva</td> -->
     <td align="center"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"/><br>AWS</td>
-
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="28"/><br>Azure</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="30"/><br>Canva</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="25"/><br>Notion</td>
+    <td align="center"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ca9f2eee-43a4-463a-b8d2-23ae5fa5d03f.jpeg" width="25"/><br>Render</td>
   </tr>
 </table>
+
 
 <!--
 <h2>📦 Frameworks & Libraries</h2>
