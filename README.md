@@ -15,7 +15,7 @@
 ---
 <table>
   <tr>
-    <td style="width: 70%; vertical-align: top;">
+    <td style="width: 80%; vertical-align: top;">
       <h2 style="text-align: center;">👩‍💻 About Me</h2>
       <p> 🚀 Passionate about <strong>Data Science | Software Development | Problem Solving</strong></p>
       <p> 🌱 Currently learning <strong>Python | Data Science | Data Structure and Algorithm</strong></p>
