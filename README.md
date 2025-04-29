@@ -99,10 +99,10 @@
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/><br>Git</td>
     <td align="center"><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="30"/><br>GitHub</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/><br>VS Code</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/><br>VSC</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30"/><br>Jupyter</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="30"/><br>PyCharm</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30"/><br>Arduino IDE</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30"/><br>Arduino</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/><br>Postman</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"/><br>AWS</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="28"/><br>Azure</td>
