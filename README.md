@@ -175,13 +175,14 @@ A fully responsive portfolio website built with **Next.js**, demonstrating UI/UX
 
 -->
 
-💖 **Thank you for visiting my profile!**  
-⭐ **my repositories, If you found my work interesting!**
+
+### 🎯 Quote of the Day  
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
 
 ---
 
-## 🎯 Quote of the Day  
-> "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill  
+💖 **Thank you for visiting my profile!**  
+⭐ **my repositories, If you found my work interesting!**
 
 ---
 
