@@ -176,7 +176,7 @@ A fully responsive portfolio website built with **Next.js**, demonstrating UI/UX
 -->
 
 💖 **Thank you for visiting my profile!**  
-🔹If you found my work interesting, feel free to connect and give a ⭐ to my repositories!  
+⭐ **my repositories, If you found my work interesting!**
 
 ---
 
