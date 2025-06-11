@@ -97,16 +97,16 @@
 <h3>⚙️ Tools & Platforms</h3>
 <table>
   <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/><br>Git</td>
-    <td align="center"><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="30"/><br>GitHub</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30"/><br>VSC</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30"/><br>Jupyter</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="30"/><br>PyCharm</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30"/><br>Arduino</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/><br>Postman</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"/><br>AWS</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="28"/><br>Azure</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="30"/><br>Canva</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/><br>Git</td>
+    <td align="center"><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="25"/><br>GitHub</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25"/><br>VSC</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="25"/><br>Jupyter</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="25"/><br>PyCharm</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="25"/><br>Arduino</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25"/><br>Postman</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="25"/><br>AWS</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="25"/><br>Azure</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="25"/><br>Canva</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="25"/><br>Notion</td>
     <td align="center"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ca9f2eee-43a4-463a-b8d2-23ae5fa5d03f.jpeg" width="25"/><br>Render</td>
   </tr>
