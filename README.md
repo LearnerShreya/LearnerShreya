@@ -113,21 +113,17 @@
 </table>
 
 
-<h2>📦 Frameworks & Libraries</h2>
+<h3>📦 Frameworks & Libraries</h3>
 <table>
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="30"/><br>NumPy</td>
     <td align="center"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="25"/><br>Pandas</td>
     <td align="center"><img src="https://matplotlib.org/_static/images/logo2.svg" width="30"/><br>Matplotlib</td>
     <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="30"/><br>Seaborn</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-1KKksc8e8Vwux2hWAFxgtAIm5eeBelbfg&s" width="30"/><br>Plotly</td>
     <td align="center"><img src="https://static.bokeh.org/logos/logotype.svg" width="30"/><br>Bokeh</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/><br>Scikit-learn</td>
     <td align="center"><img src="https://img.icons8.com/nolan/200/flask.png" width="30"/><br>Flask</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://blog.langchain.dev/content/images/2023/09/LangChain_Logo-1.png" width="30"/><br>LangChain</td>
     <td align="center"><img src="https://streamlit.io/images/brand/streamlit-mark-dark.png" width="30"/><br>Streamlit</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Requests-logo.png" width="30"/><br>Requests</td>
