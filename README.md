@@ -113,7 +113,6 @@
 </table>
 
 
-<!--
 <h2>📦 Frameworks & Libraries</h2>
 <table>
   <tr>
@@ -135,7 +134,6 @@
     <td align="center"><img src="https://img.freepik.com/premium-vector/llm-logo-llm-letter-llm-letter-logo-design-initials-llm-logo-linked-with-circle-uppercase-monogram-logo-llm-typography-technology-business-real-estate-brand_229120-65361.jpg" width="30"/><br>LLM</td>
   </tr>
 </table>
--->
 
 
 ## 🎯 Areas of Interest  
