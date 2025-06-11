@@ -107,6 +107,8 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"/><br>AWS</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="28"/><br>Azure</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="30"/><br>Canva</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="25"/><br>Notion</td>Add commentMore actions
+    <td align="center"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ca9f2eee-43a4-463a-b8d2-23ae5fa5d03f.jpeg" width="25"/><br>Render</td>
   </tr>
 </table>
 
