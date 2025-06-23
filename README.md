@@ -109,6 +109,7 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/canva.png" width="30"/><br>Canva</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="25"/><br>Notion</td>Add commentMore actions
     <td align="center"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ca9f2eee-43a4-463a-b8d2-23ae5fa5d03f.jpeg" width="25"/><br>Render</td>
+  <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFggf9yNRN9xCYku8XMEkSE0LU9uMhkYbehQ&s" width="30"/><br>Vercel</td>
   </tr>
 </table>
 
