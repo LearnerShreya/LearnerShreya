@@ -151,7 +151,7 @@
 <h3>📊 GitHub Stats </h3> 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=learnershreya&show_icons=true&theme=radical" width="44.5%"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnershreya&theme=radical" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnershreya&theme=synthwave&show_icons=true&hide_border=false&layout=compact" width="36%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnershreya&theme=synthwave&show_icons=true&hide_border=false&layout=compact" width="36%"/> -->
 </div>
 
 
